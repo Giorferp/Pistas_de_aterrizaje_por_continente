@@ -4,7 +4,9 @@ SELECT c.name AS 'Nombre_pais', COUNT(a.id) AS 'Cant_aereopuertos' FROM airports
 JOIN countries c ON a.iso_country = c.code GROUP BY c.name
 ORDER BY  Cant_aereopuertos DESC;
 --2.	¿Cuál es el aeropuerto con la mayor elevación en la base de datos?
-
+CREATE VIEW Aereopuerto_mayor_elevacion AS 
+SELECT a.name AS 'Nombre_Aereopuerto' , a.elevation_ft AS 'Altura_aereopuerto', c.name AS 'Nombre_pais' FROM airports a
+JOIN countries c ON a.iso_country = c.code WHERE a.elevation_ft = ( SELECT MAx(elevation_ft) FROM airports);
 --3.	Lista los 5 aeropuertos con las pistas más largas.
 
 --4.	¿Cuántos aeropuertos tienen servicio programado en América del Norte?
