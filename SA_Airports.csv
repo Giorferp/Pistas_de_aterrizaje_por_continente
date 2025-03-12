@@ -1,0 +1,346 @@
+code,ident,name,type,length_ft,width_ft,surface,le_elevation_ft
+AR,AR-0462,Termal Airport,small_airport,5905,108,CON,308
+AR,AR-0513,Estancia La Alborada,small_airport,3281,85,GRE,208
+AR,AR-0736,Ushuaia Aeroclub Airport,small_airport,5299,161,ASPH,17
+AR,SA04,Isla Martin Garcia Airport,small_airport,4150,98,ASPH,7
+AR,SA34,Trelew Aeroclub Airport,small_airport,5413,98,ASPH,128
+AR,SAAC,Comodoro Pierrestegui Airport,medium_airport,5249,98,ASPH,112
+AR,SAAG,Gualeguaychu Airport,medium_airport,4364,98,ASPH,75
+AR,SAAP,General Urquiza Airport,medium_airport,6890,148,ASPH,243
+AR,SAAR,Rosario Islas Malvinas International Airport,medium_airport,9842,148,CON,82
+AR,SAAV,Sauce Viejo Airport,medium_airport,7628,98,ASPH,56
+AR,SABE,Jorge Newbery Airpark,large_airport,7710,148,CON,18
+AR,SACO,Ingeniero Ambrosio Taravella Airport,medium_airport,7218,148,ASPH,1526
+AR,SADF,San Fernando Airport,medium_airport,5909,98,ASPH,10
+AR,SADJ,Mariano Moreno Airport,small_airport,7874,131,ASPH,105
+AR,SADL,La Plata Airport,medium_airport,4682,148,ASPH,69
+AR,SADM,Morón Airport,small_airport,9350,131,ASPH,98
+AR,SADP,El Palomar Airport,medium_airport,6923,147,CON,43
+AR,SAEZ,Minister Pistarini International Airport,large_airport,10827,197,ASPH,62
+AR,SAME,El Plumerillo Airport,medium_airport,9301,177,CON,2290
+AR,SAMM,Comodoro D.R. Salomón Airport,medium_airport,4757,66,ASPH,4678
+AR,SAMR,Suboficial Ay Santiago Germano Airport,medium_airport,6923,98,ASPH,2470
+AR,SANC,Coronel Felipe Varela International Airport,medium_airport,9186,98,ASPH,1476
+AR,SANE,Vicecomodoro Angel D. La Paz Aragonés Airport,medium_airport,7946,148,ASPH,654
+AR,SANL,Capitan V A Almonacid Airport,medium_airport,9383,98,ASPH,1437
+AR,SANR,Termas de Río Hondo international Airport,medium_airport,8232,98,ASPH,913
+AR,SANT,Teniente Benjamin Matienzo Airport,medium_airport,11483,148,CON,1439
+AR,SANU,Domingo Faustino Sarmiento Airport,medium_airport,8071,148,ASPH,1959
+AR,SAOC,Area De Material Airport,medium_airport,7431,148,ASPH,1381
+AR,SAOR,Villa Reynolds Airport,medium_airport,7874,164,ASPH,1590
+AR,SAOS,Valle Del Conlara International Airport,small_airport,8366,148,CON,2017
+AR,SAOU,Brigadier Mayor D Cesar Raul Ojeda Airport,medium_airport,9678,98,ASPH,2297
+AR,SARC,Corrientes Airport,medium_airport,6890,148,CON,202
+AR,SARE,Resistencia International Airport,medium_airport,9088,148,ASPH,171
+AR,SARF,Aeropuerto Nacional de Formosa,medium_airport,5905,131,ASPH,193
+AR,SARI,Cataratas Del Iguazú International Airport,medium_airport,10827,148,ASPH,908
+AR,SARL,Paso De Los Libres Airport,medium_airport,7415,148,ASPH,230
+AR,SARP,Libertador Gral D Jose De San Martin Airport,medium_airport,7218,98,ASPH,429
+AR,SASA,Martin Miguel De Guemes International Airport,medium_airport,9842,148,ASPH,4088
+AR,SASJ,Gobernador Horacio Guzman International Airport,medium_airport,9698,131,ASPH,3019
+AR,SASO,Orán Airport,medium_airport,4839,98,ASPH,1166
+AR,SAST,General Enrique Mosconi Airport,medium_airport,4921,98,ASPH,1457
+AR,SAVC,General E. Mosconi Airport,medium_airport,9219,164,CON,189
+AR,SAVE,Brigadier Antonio Parodi Airport,medium_airport,7874,131,ASPH,2621
+AR,SAVT,Almirante Marco Andres Zar Airport,medium_airport,8399,148,CON,140
+AR,SAVV,Gobernador Castello Airport,medium_airport,8366,148,ASPH,20
+AR,SAWC,El Calafate - Commander Armando Tola International Airport,medium_airport,8366,148,CON,669
+AR,SAWE,Gobernador Ramón Trejo Noel International Airport,medium_airport,6562,131,ASPH,66
+AR,SAWG,Piloto Civil N. Fernández Airport,medium_airport,11644,148,CON,61
+AR,SAWH,Malvinas Argentinas Airport,medium_airport,9186,148,CON,85
+AR,SAWU,Santa Cruz Airport,medium_airport,6561,98,ASPH,364
+AR,SAZA,Azul Airport,small_airport,4593,98,GRASS,478
+AR,SAZB,Comandante Espora Airport,medium_airport,6660,108,ASPH,246
+AR,SAZM,Ástor Piazzola International Airport,medium_airport,7218,148,ASPH,71
+AR,SAZN,Presidente Peron Airport,medium_airport,8432,148,ASPH,895
+AR,SAZP,Comodoro Pedro Zanni Airport,medium_airport,4921,98,ASPH,279
+AR,SAZR,Santa Rosa Airport,medium_airport,7546,98,ASPH,620
+AR,SAZS,San Carlos De Bariloche Airport,medium_airport,7703,157,ASPH,2749
+AR,SAZT,Héroes De Malvinas Airport,medium_airport,8366,157,CON,574
+AR,SAZV,Villa Gesell Airport,medium_airport,5709,92,ASPH,34
+AR,SAZW,Cutral-Co Airport,medium_airport,5558,98,ASPH,2133
+AR,SAZY,Aviador C. Campos Airport,medium_airport,8205,148,ASPH,2568
+BO,SLCB,Jorge Wilsterman International Airport,medium_airport,8692,148,ASPH,8337
+BO,SLCO,Capitán Aníbal Arab Airport,medium_airport,6562,98,ASPH,892
+BO,SLCP,Concepción Airport,small_airport,5653,98,GRASS,1635
+BO,SLET,El Trompillo Airport,medium_airport,9098,131,ASPH,1372
+BO,SLLP,El Alto International Airport,medium_airport,13123,151,CON,13110
+BO,SLPS,Capitán Av. Salvador Ogaya G. airport,medium_airport,6562,118,ASPH,439
+BO,SLRB,Roboré Airport,small_airport,3940,98,GRASS,884
+BO,SLSR,Santa Rosa De Yacuma Airport,small_airport,4925,98,GRASS,538
+BO,SLSU,Juana Azurduy De Padilla Airport,medium_airport,9300,98,CON,9527
+BO,SLSV,San Ignacio de Velasco Airport,medium_airport,9055,148,ASPH,1482
+BO,SLTI,San Matías Airport,small_airport,6234,98,GRASS,400
+BO,SLTJ,Capitan Oriel Lea Plaza Airport,medium_airport,10007,148,ASPH,6083
+BO,SLTR,Teniente Av. Jorge Henrich Arauz Airport,medium_airport,7874,98,ASPH,509
+BO,SLUY,Uyuni Joya Andina Airport,small_airport,13123,148,CON,12020
+BO,SLVR,Viru Viru International Airport,large_airport,11483,148,CON,1218
+BR,BR-0039,Cachoeira Alta Airport,small_airport,4707,75,ASPH,1742
+BR,BR-0569,Glauber de Andrade Rocha Airport,medium_airport,6890,148,ASPH,2933
+BR,BR-1526,Bainho de Baixo Airstrip,small_airport,3445,66,Earth,501
+BR,BR-1699,Assis Brasil Airport,small_airport,4340,98,ASPH,951
+BR,CMT,New Cametá Airport,small_airport,4000,100,ASPH,64
+BR,JJD,Comandante Ariston Pessoa Airport,medium_airport,7218,148,ASPH,86
+BR,SBAQ,Araraquara Airport,medium_airport,5907,99,ASPH,2275
+BR,SBAR,Aracaju - Santa Maria International Airport,medium_airport,7218,148,ASPH,22
+BR,SBBE,Val de Cans/Júlio Cezar Ribeiro International Airport,large_airport,9186,148,ASPH,44
+BR,SBBG,Comandante Gustavo Kraemer Airport,medium_airport,4921,98,CON,588
+BR,SBBI,Bacacheri Airport,medium_airport,4560,98,ASPH,3057
+BR,SBBP,Estadual Arthur Siqueira Airport,small_airport,3997,98,ASPH,2930
+BR,SBBR,Presidente Juscelino Kubitschek International Airport,large_airport,10827,148,ASPH,3497
+BR,SBBU,Bauru Airport,small_airport,4921,115,ASPH,2003
+BR,SBCA,Coronel Adalberto Mendes da Silva Airport,medium_airport,5810,148,ASPH,2478
+BR,SBCF,Tancredo Neves International Airport,large_airport,11811,148,ASPH,2712
+BR,SBCG,Campo Grande Airport,medium_airport,8530,148,CON,1818
+BR,SBCP,Bartolomeu Lisandro Airport,medium_airport,5066,148,ASPH,57
+BR,SBCR,Corumbá International Airport,medium_airport,4921,148,ASPH,448
+BR,SBCT,Afonso Pena Airport,medium_airport,7277,148,ASPH,2987
+BR,SBCX,Hugo Cantergiani Regional Airport,medium_airport,5479,98,ASPH,2472
+BR,SBCY,Marechal Rondon Airport,medium_airport,7546,148,ASPH,617
+BR,SBDN,Presidente Prudente Airport,medium_airport,6923,115,ASPH,1412
+BR,SBEG,Eduardo Gomes International Airport,large_airport,8858,148,ASPH,252
+BR,SBFI,Cataratas International Airport,medium_airport,7201,148,ASPH,764
+BR,SBFL,Hercílio Luz International Airport,large_airport,7546,148,ASPH,17
+BR,SBFZ,Pinto Martins International Airport,large_airport,9039,148,ASPH,82
+BR,SBGL,Rio Galeão – Tom Jobim International Airport,large_airport,13123,148,CON,16
+BR,SBGO,Santa Genoveva Airport,medium_airport,7500,148,ASPH,2440
+BR,SBGP,EMBRAER - Unidade Gavião Peixoto Airport,small_airport,9843,148,ASPH,1986
+BR,SBGR,Guarulhos - Governador André Franco Montoro International Airport,large_airport,9843,148,ASPH,2450
+BR,SBGV,Coronel Altino Machado Airport,medium_airport,5581,98,ASPH,562
+BR,SBIH,Itaituba Airport,medium_airport,5577,98,ASPH,110
+BR,SBJA,Humberto Ghizzo Bortoluzzi Regional Airport,small_airport,8199,98,ASPH,110
+BR,SBJD,Comte. Rolim Adolfo Amaro–Jundiaí State Airport,small_airport,4593,98,ASPH,2425
+BR,SBJR,Jacarepaguá - Roberto Marinho Airport,small_airport,2952,98,ASPH,10
+BR,SBKP,Viracopos International Airport,medium_airport,10630,148,ASPH,2139
+BR,SBLO,Governador José Richa Airport,medium_airport,6890,148,ASPH,1866
+BR,SBMG,Regional de Maringá - Sílvio Name Júnior Airport,medium_airport,7808,148,ASPH,1766
+BR,SBMO,Zumbi dos Palmares Airport,medium_airport,8537,148,ASPH,387
+BR,SBMT,Campo de Marte Airport,medium_airport,5249,147,ASPH,2379
+BR,SBNF,Ministro Victor Konder International Airport,medium_airport,5906,148,ASPH,17
+BR,SBNM,Santo Ângelo Airport,medium_airport,5331,98,ASPH,1031
+BR,SBNT,Natal Air Force Base,medium_airport,5987,148,ASPH,166
+BR,SBPA,Salgado Filho International Airport,medium_airport,10499,148,ASPH,11
+BR,SBPF,Lauro Kurtz Airport,medium_airport,5512,98,ASPH,2363
+BR,SBPJ,Brigadeiro Lysias Rodrigues Airport,medium_airport,8202,148,ASPH,747
+BR,SBPS,Porto Seguro Airport,large_airport,6562,148,ASPH,169
+BR,SBRF,Recife/Guararapes - Gilberto Freyre International Airport,medium_airport,9865,148,ASPH,23
+BR,SBRP,Leite Lopes Airport,medium_airport,6890,148,ASPH,1802
+BR,SBSG,São Gonçalo do Amarante - Governador Aluízio Alves International Airport,medium_airport,9843,197,ASPH,273
+BR,SBSJ,Professor Urbano Ernesto Stumpf Airport,medium_airport,8780,148,ASPH,2031
+BR,SBSL,Marechal Cunha Machado International Airport,medium_airport,7828,148,ASPH,178
+BR,SBSP,Congonhas Airport,medium_airport,6365,148,ASPH,2615
+BR,SBSR,Prof. Eribelto Manoel Reino State Airport,medium_airport,5381,115,ASPH,1743
+BR,SBSV,Deputado Luiz Eduardo Magalhães International Airport,large_airport,9859,148,ASPH,30
+BR,SBTA,Base de Aviação de Taubaté,medium_airport,6170,98,ASPH,1908
+BR,SBTS,Tiriós Airport,medium_airport,6562,115,ASPH,1118
+BR,SBUY,Urucu Airport,small_airport,4331,98,ASPH,208
+BR,SBVT,Eurico de Aguiar Salles Airport,large_airport,5742,148,ASPH,13
+BR,SDAM,Estadual de Campos dos Amarais - Prefeito Francisco Amaral Airport,small_airport,3937,98,ASPH,2008
+BR,SDCO,Sorocaba Airport,small_airport,5348,98,ASPH,2082
+BR,SDMC,Maricá Airport,small_airport,3917,98,ASPH,14
+BR,SDRK,Rio Claro Airport,small_airport,69,69,GRS,1992
+BR,SILQ,Aeroleve Aeródromo Privado Airport,small_airport,2116,66,ASPH,2262
+BR,SIQW,Fazenda Santa Maria do Jauru Airport,small_airport,3937,75,GVL,680
+BR,SJLA,Flechal Airport,small_airport,1903,40,Earth,2060
+BR,SJLC,Hakoma Airport,small_airport,1969,66,Earth,2346
+BR,SJTC,Bauru/Arealva–Moussa Nakhal Tobias State Airport,medium_airport,6594,148,ASPH,1927
+BR,SNAV,Agrovale Airport,small_airport,3281,59,ASPH,1311
+BR,SNCP,Planalto Serrano Regional Airport,medium_airport,5912,98,ASPH,2868
+BR,SNDV,Brigadeiro Cabral Airport,small_airport,5052,98,ASPH,2608
+BR,SNFD,Fazenda Santo Antônio Airport,small_airport,5650,98,GRE,1798
+BR,SNHA,Tertuliano Guedes de Pinho Airport,small_airport,4993,98,CON,199
+BR,SNLN,Linhares Municipal Airport,medium_airport,6102,148,ASPH,138
+BR,SNPA,Pará de Minas Airport,small_airport,4134,75,ASPH,2640
+BR,SNRZ,Oliveira Airport,small_airport,3887,82,ASPH,3320
+BR,SNSM,Salinópolis Airport,small_airport,6102,82,ASPH,89
+BR,SNVB,Valença Airport,small_airport,5906,98,ASPH,16
+BR,SNZR,Pedro Rabelo de Souza Airport,small_airport,4921,98,ASPH,2395
+BR,SSBL,Blumenau Airport,small_airport,4590,98,ASPH,48
+BR,SSDO,Dourados Airport,small_airport,6398,98,ASPH,1494
+BR,SSNM,Guarantã Airport,small_airport,3937,59,GVL,962
+BR,SSPB,Juvenal Loureiro Cardoso Airport,small_airport,5318,98,ASPH,2694
+BR,SSTL,Plínio Alarcom Airport,small_airport,6562,98,ASPH,1067
+BR,SSUM,Orlando de Carvalho Airport,small_airport,4692,98,ASPH,1535
+BR,SWHP,Frederico Carlos Müller Airport,small_airport,5208,60,ASPH,1504
+BR,SWKQ,Serra da Capivara Airport,small_airport,5413,148,ASPH,1361
+BR,SWNV,Aeródromo Nacional de Aviação,small_airport,3609,66,ASPH,2733
+BR,SWVB,Vila Bela da Santíssima Trindade Airport,small_airport,5250,92,GRE,658
+BR,SWVW,Furnaspark Resort Airport,small_airport,2620,46,ASPH,2567
+BR,SWVX,Fazenda Guariba Airstrip,small_airport,3377,75,GVL,493
+BR,SWWH,Fazenda Marca Salto Airstrip,small_airport,3350,148,GRS,1164
+CL,CL-0015,Nuevo Chaitén Airport,medium_airport,3937,98,ASPH,72
+CL,CL-0017,Peldehue Aerodrome,small_airport,4920,100,ASPH,2198
+CL,SCAR,Chacalluta Airport,medium_airport,7119,148,ASPH,123
+CL,SCAT,Desierto de Atacama Airport,medium_airport,7218,148,ASPH,620
+CL,SCBA,Balmaceda Airport,medium_airport,8205,148,ASPH,1722
+CL,SCCF,El Loa Airport,medium_airport,9974,148,ASPH,7424
+CL,SCCH,Gral. Bernardo O´Higgins Airport,medium_airport,5740,98,ASPH,499
+CL,SCCI,President Carlos Ibañez del Campo International Airport,medium_airport,5504,148,ASPH,122
+CL,SCCY,Teniente Vidal Airport,medium_airport,5072,98,ASPH,1020
+CL,SCDA,Diego Aracena Airport,medium_airport,10991,148,ASPH,97
+CL,SCEL,Comodoro Arturo Merino Benítez International Airport,large_airport,12303,148,ASPH,1551
+CL,SCER,Quintero Airport,small_airport,3937,164,CON,12
+CL,SCFA,Andrés Sabella Gálvez International Airport,medium_airport,9186,164,ASPH,352
+CL,SCFM,Captain Fuentes Martinez Airport,medium_airport,8202,98,ASPH,61
+CL,SCGE,María Dolores Airport,small_airport,5577,98,ASPH,363
+CL,SCGZ,Guardiamarina Zañartu Airport,medium_airport,4724,95,ASPH,88
+CL,SCIE,Carriel Sur Airport,medium_airport,8530,148,ASPH,26
+CL,SCIP,Mataveri Airport,medium_airport,10827,148,ASPH,127
+CL,SCJO,Cañal Bajo Carlos - Hott Siebert Airport,medium_airport,6398,118,ASPH,190
+CL,SCPQ,Mocopulli Airport,small_airport,6562,148,ASPH,510
+CL,SCQP,La Araucanía Airport,medium_airport,8005,148,ASPH,315
+CL,SCRD,Rodelillo Airport,small_airport,2789,66,ASPH,1100
+CL,SCSB,Franco Bianco Airport,small_airport,3937,98,GRE,106
+CL,SCSE,La Florida Airport,medium_airport,6358,148,ASPH,436
+CL,SCSN,Santo Domingo Airport,small_airport,2625,59,ASPH,234
+CL,SCTB,Eulogio Sánchez Airport,small_airport,3280,98,ASPH,2129
+CL,SCTC,Maquehue Airport,medium_airport,5577,147,ASPH,284
+CL,SCTE,El Tepual Airport,medium_airport,8694,148,CON,264
+CL,SCVD,Pichoy Airport,medium_airport,6870,148,ASPH,59
+CL,SCVM,Viña del Mar Airport,medium_airport,5760,98,ASPH,461
+CO,CO-0054,Ríohacha Highway Strip,small_airport,8268,66,ASPH,25
+CO,EEB,El Espino Airport,small_airport,2707,33,ASPH,7107
+CO,SKAP,Gomez Nino Apiay Air Base,medium_airport,8204,164,ASPH,1241
+CO,SKAR,El Eden Airport,medium_airport,7045,118,ASPH,3968
+CO,SKBG,Palonegro Airport,medium_airport,7381,131,ASPH,3902
+CO,SKBO,El Dorado International Airport,large_airport,12467,148,ASPH,8350
+CO,SKBQ,Ernesto Cortissoz International Airport,medium_airport,9842,148,CON,98
+CO,SKBU,Gerardo Tobar López Airport,medium_airport,3945,76,ASPH,40
+CO,SKCC,Camilo Daza International Airport,medium_airport,6341,148,ASPH,1046
+CO,SKCG,Rafael Nuñez International Airport,medium_airport,8530,148,ASPH,7
+CO,SKCL,Alfonso Bonilla Aragon International Airport,medium_airport,9842,148,ASPH,3153
+CO,SKCO,La Florida Airport,medium_airport,5249,90,ASPH,10
+CO,SKEJ,Yariguíes Airport,medium_airport,5905,148,ASPH,401
+CO,SKFL,Gustavo Artunduaga Paredes Airport,medium_airport,4921,98,ASPH,797
+CO,SKGI,Santiago Vila Airport,medium_airport,5249,92,ASPH,899
+CO,SKGO,Santa Ana Airport,medium_airport,6644,131,ASPH,2977
+CO,SKGP,Juan Casiano Airport,medium_airport,4256,66,ASPH,164
+CO,SKIB,Perales Airport,medium_airport,5905,98,ASPH,3044
+CO,SKIP,San Luis Airport,medium_airport,5774,92,ASPH,9723
+CO,SKLC,Antonio Roldán Betancur Airport,medium_airport,7153,98,ASPH,39
+CO,SKLT,Alfredo Vásquez Cobo International Airport,medium_airport,6168,131,ASPH,314
+CO,SKMD,Enrique Olaya Herrera Airport,medium_airport,8202,125,ASPH,4915
+CO,SKML,Montelibano Airport,small_airport,3560,82,ASPH,160
+CO,SKMR,Los Garzones Airport,medium_airport,7539,150,ASPH,20
+CO,SKMU,Fabio Alberto Leon Bentley Airport,medium_airport,5889,66,ASPH,526
+CO,SKNV,Benito Salas Airport,medium_airport,5880,131,ASPH,1447
+CO,SKPB,Puerto Bolívar Airport,small_airport,5540,148,ASPH,90
+CO,SKPC,German Olano Airport,medium_airport,5907,69,ASPH,180
+CO,SKPD,Obando Cesar Gaviria Trujillo Airport,medium_airport,5910,85,ASPH,460
+CO,SKPE,Matecaña International Airport,medium_airport,6627,148,ASPH,4342
+CO,SKPN,Puerto Nare Airport,small_airport,3310,35,ASPH,450
+CO,SKPP,Guillermo León Valencia Airport,medium_airport,6266,98,ASPH,5633
+CO,SKPQ,German Olano Air Base,medium_airport,9987,164,ASPH,566
+CO,SKPS,Antonio Nariño Airport,medium_airport,7585,130,ASPH,5840
+CO,SKRG,Jose Maria Córdova International Airport,medium_airport,11286,148,ASPH,6967
+CO,SKSA,Los Colonizadores Airport,small_airport,3937,98,ASPH,674
+CO,SKSJ,Jorge E. Gonzalez Torres Airport,medium_airport,4897,66,ASPH,605
+CO,SKSM,Simón Bolívar International Airport,medium_airport,5577,131,ASPH,8
+CO,SKTB,Tibú Airport,small_airport,4921,66,ASPH,194
+CO,SKTM,Gustavo Vargas Airport,medium_airport,6561,98,ASPH,1050
+CO,SKTQ,Captain Ernesto Esguerra Cubides Air Base,medium_airport,6220,79,CON,585
+CO,SKUA,Marandúa Air Base,medium_airport,6780,145,ASPH,279
+CO,SKUC,Santiago Perez Airport,medium_airport,6890,98,ASPH,420
+CO,SKUI,El Caraño Airport,medium_airport,4593,98,ASPH,175
+CO,SKVL,Velásquez Airport,small_airport,5520,50,ASPH,482
+CO,SKVP,Alfonso López Pumarejo Airport,medium_airport,6890,115,ASPH,449
+CO,SKVV,Vanguardia Airport,medium_airport,5616,98,ASPH,1394
+CO,SKYP,El Yopal Airport,medium_airport,8448,98,ASPH,1006
+EC,SE60,La Puntilla Airport,small_airport,2953,39,ASPH,189
+EC,SEAM,Chachoán Regional Airport,medium_airport,6316,82,ASPH,8390
+EC,SECO,Francisco De Orellana Airport,medium_airport,6760,90,ASPH,831
+EC,SECU,Mariscal Lamar Airport,medium_airport,6234,118,ASPH,8306
+EC,SEGS,Seymour Galapagos Ecological Airport,small_airport,7876,115,ASPH,145
+EC,SEGU,José Joaquín de Olmedo International Airport,large_airport,9154,151,ASPH,16
+EC,SELT,Cotopaxi International Airport,medium_airport,12117,148,ASPH,9190
+EC,SEMA,Jose Maria Velasco Ibarra Airport,medium_airport,3532,65,ASPH,1430
+EC,SEMC,Coronel E Carvajal Airport,medium_airport,8202,98,ASPH,3356
+EC,SEMT,Eloy Alfaro International Airport,medium_airport,9383,148,ASPH,37
+EC,SENF,Napurak Airstrip,small_airport,2077,49,Earth,880
+EC,SEPC,Patuca Airport,small_airport,5255,96,ASPH,1764
+EC,SEPV,Reales Tamarindos Airport,medium_airport,7451,89,ASPH,114
+EC,SEQM,Mariscal Sucre International Airport,large_airport,13445,148,CON,7776
+EC,SEQU,Mariscal Sucre Air Base,heliport,10236,151,ASPH,9217
+EC,SERB,Chimborazo Airport,small_airport,5250,95,ASPH,9151
+EC,SERO,Santa Rosa - Artillery Colonel Victor Larrea International Airport,medium_airport,8625,148,ASPH,20
+EC,SESA,General Ulpiano Paez Airport,medium_airport,3641,131,ASPH,15
+EC,SESM,Rio Amazonas Airport,small_airport,5052,82,ASPH,3465
+EC,SEST,San Cristóbal Airport,small_airport,6214,66,ASPH,27
+EC,SESV,Los Perales Airport,small_airport,7227,98,ASPH,8
+EC,SETA,Taura Air Base,small_airport,10015,145,ASPH,56
+EC,SETE,Mayor Galo Torres Airport,small_airport,3937,49,ASPH,1709
+EC,SETM,Ciudad de Catamayo Airport,small_airport,6725,98,ASPH,3923
+EC,SETN,Carlos Concha Torres International Airport,medium_airport,7874,148,ASPH,20
+EC,SETR,Tarapoa Airport,medium_airport,5151,49,ASPH,814
+EC,SETU,Lieutenant Colonel Luis A. Mantilla International Airport,medium_airport,8071,98,ASPH,9646
+FK,EGYP,Mount Pleasant Airport,medium_airport,5003,75,ASPH,215
+GF,SOCA,Cayenne – Félix Eboué Airport,large_airport,10486,148,ASPH,18
+GF,SOOR,Régina Airport,small_airport,2625,49,ASPH,21
+GY,SYCJ,Cheddi Jagan International Airport,medium_airport,7448,148,ASPH,96
+PE,SPAS,Alferez FAP Alfredo Vladimir Sara Bauer Airport,small_airport,6749,131,ASPH,728
+PE,SPCL,Cap FAP David Abenzur Rengifo International Airport,medium_airport,9186,148,ASPH,513
+PE,SPEO,FAP Lieutenant Jaime Andres de Montreuil Morales Airport,medium_airport,5905,98,ASPH,69
+PE,SPEQ,Cesar Torke Podesta Airport,small_airport,5905,98,ASPH,4470
+PE,SPHI,Air Force Captain Jose A Quinones Gonzales International Airport,medium_airport,8266,148,ASPH,94
+PE,SPHO,Air Force Colonel Alfredo Mendivil Duarte Airport,medium_airport,9186,148,ASPH,8917
+PE,SPHY,Andahuaylas Airport,small_airport,8202,98,ASPH,11300
+PE,SPHZ,Comandante FAP German Arias Graziani Airport,medium_airport,10007,98,ASPH,9022
+PE,SPIM,Jorge Chávez International Airport,large_airport,11506,148,CON,46
+PE,SPJI,Juanjui Airport,medium_airport,6562,98,ASPH,1148
+PE,SPJJ,Francisco Carle Airport,medium_airport,9220,148,ASPH,10900
+PE,SPJL,Inca Manco Capac International Airport,medium_airport,13779,150,ASPH,12552
+PE,SPJR,Mayor General FAP Armando Revoredo Iglesias Airport,medium_airport,8201,148,ASPH,8848
+PE,SPLO,General Jorge Fernandez Maldon Airport,medium_airport,8202,148,ASPH,72
+PE,SPLP,Las Palmas Air Base,small_airport,8019,150,ASPH,250
+PE,SPME,Captain Pedro Canga Rodríguez International Airport,medium_airport,8202,148,ASPH,96
+PE,SPMS,Moises Benzaquen Rengifo Airport,medium_airport,5912,98,ASPH,570
+PE,SPNC,Alferez Fap David Figueroa Fernandini Airport,medium_airport,8202,98,ASPH,6070
+PE,SPQT,Coronel FAP Francisco Secada Vignetta International Airport,medium_airport,8202,148,CON,306
+PE,SPQU,Rodríguez Ballón International Airport,medium_airport,9777,148,ASPH,8270
+PE,SPRU,Capitan FAP Carlos Martinez De Pinillos International Airport,medium_airport,9920,145,ASPH,46
+PE,SPSO,Captain Renán Elías Olivera International Airport,medium_airport,9908,148,ASPH,11
+PE,SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,medium_airport,8530,148,ASPH,869
+PE,SPTN,Coronel FAP Carlos Ciriani Santa Rosa International Airport,medium_airport,8202,148,ASPH,1375
+PE,SPTU,Padre Aldamiz International Airport,medium_airport,11482,148,CON,659
+PE,SPUR,Capitán FAP Guillermo Concha Iberico International Airport,medium_airport,8202,148,ASPH,120
+PE,SPYL,Captain Victor Montes Arias International Airport,medium_airport,8038,148,ASPH,277
+PE,SPZA,Maria Reiche Neuman Airport,medium_airport,3355,65,ASPH,1805
+PE,SPZO,Alejandro Velasco Astete International Airport,large_airport,11146,148,ASPH,10860
+PY,SGAS,Silvio Pettirossi International Airport.,large_airport,10997,148,ASPH,292
+PY,SGAY,Aeropuerto Nacional de Juan De Ayolas,medium_airport,6070,148,ASPH,223
+PY,SGCO,Aeropuerto Nacional Tte. Cnel. Carmelo Peralta,medium_airport,6070,148,ASPH,249
+PY,SGES,Aeropuerto Internacional Guaraní,large_airport,11154,148,ASPH,846
+PY,SGIB,Aeropuerto Nacional de Itaipú,medium_airport,4987,75,ASPH,762
+PY,SGME,Aeropuerto Internacional Dr. Luis Maria Argaña,large_airport,11483,131,CON,549
+PY,SGPJ,Dr. Augusto Roberto Fuster Airport,medium_airport,5908,98,ASPH,1870
+SR,SMJP,Johan Adolf Pengel International Airport,large_airport,11417,148,ASPH,56
+UY,SUAA,Ángel S. Adami International Airport,medium_airport,4101,75,CON,174
+UY,SUCM,Zagarzazú International Airport,small_airport,3478,92,GRE,36
+UY,SUCN,Aeroclub Canelones,small_airport,2297,98,GRS,98
+UY,SUDU,Santa Bernardina International Airport,medium_airport,7477,148,PEM,272
+UY,SULS,Capitan Corbeta CA Curbelo International Airport,medium_airport,5249,125,ASPH,95
+UY,SUMU,Carrasco General Cesáreo L. Berisso International Airport,large_airport,7382,148,PEM,62
+UY,SUSO,Nueva Hesperides International Airport,medium_airport,5210,148,ASPH,187
+UY,SUTR,Treinta y Tres Airport,small_airport,3510,125,GRS,466
+VE,SVAC,Oswaldo Guevara Mujica Airport,medium_airport,5990,131,ASPH,732
+VE,SVBC,General José Antonio Anzoategui International Airport,large_airport,9186,131,ASPH,39
+VE,SVBI,Barinas Airport,medium_airport,3940,130,ASPH,619
+VE,SVBM,Barquisimeto International Airport,medium_airport,9350,147,ASPH,2042
+VE,SVCR,José Leonardo Chirinos Airport,medium_airport,6761,148,ASPH,50
+VE,SVCS,Oscar Machado Zuluaga Airport,medium_airport,6562,98,ASPH,2145
+VE,SVCU,Cumaná (Antonio José de Sucre) Airport,medium_airport,10171,148,ASPH,25
+VE,SVHG,Higuerote Airport,small_airport,3937,98,ASPH,10
+VE,SVJC,Josefa Camejo International Airport,medium_airport,9186,148,ASPH,75
+VE,SVLF,La Fria Airport,medium_airport,6643,190,ASPH,289
+VE,SVMC,La Chinita International Airport,medium_airport,8202,98,CON,229
+VE,SVMG,Del Caribe Santiago Mariño International Airport,medium_airport,10499,150,ASPH,74
+VE,SVMI,Simón Bolívar International Airport,large_airport,9930,148,ASPH,230
+VE,SVMT,Maturín Airport,medium_airport,6890,148,ASPH,213
+VE,SVPA,Cacique Aramare Airport,medium_airport,8272,140,ASPH,245
+VE,SVPR,General Manuel Carlos Piar International Airport,medium_airport,6726,148,ASPH,472
+VE,SVSO,Mayor Buenaventura Vivas International Airport,medium_airport,9990,148,ASPH,1083
+VE,SVSR,San Fernando De Apure Airport,medium_airport,6420,160,ASPH,156
+VE,SVSZ,Miguel Urdaneta Fernández Airport,medium_airport,8835,130,ASPH,32
+VE,SVVA,Arturo Michelena International Airport,medium_airport,9842,164,ASPH,1415
+VE,SVVG,Juan Pablo Pérez Alfonso Airport,medium_airport,10645,145,ASPH,241
+VE,SVVL,Dr. Antonio Nicolás Briceño Airport,medium_airport,6791,148,ASPH,2060
