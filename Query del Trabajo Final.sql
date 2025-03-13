@@ -10,6 +10,7 @@ GROUP BY airports.ident ORDER BY countries.code;
  
 UPDATE SA_Airports SET surface = 'ASPH' WHERE surface LIKE 'A%';
 UPDATE SA_Airports SET surface = 'CON' WHERE surface LIKE 'C%';
+UPDATE SA_Airports SET surface = 'GRS' WHERE surface LIKE 'GRASS%';
 SELECT surface, count(*) FROM SA_Airports GROUP BY surface;
 DELETE FROM SA_Airports WHERE surface IS 'UNK';
 SELECT * FROM SA_Airports WHERE type IS 'closed';
