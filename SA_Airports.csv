@@ -49,7 +49,7 @@ AR,SAWE,Gobernador Ramón Trejo Noel International Airport,medium_airport,6562,1
 AR,SAWG,Piloto Civil N. Fernández Airport,medium_airport,11644,148,CON,61
 AR,SAWH,Malvinas Argentinas Airport,medium_airport,9186,148,CON,85
 AR,SAWU,Santa Cruz Airport,medium_airport,6561,98,ASPH,364
-AR,SAZA,Azul Airport,small_airport,4593,98,GRASS,478
+AR,SAZA,Azul Airport,small_airport,4593,98,GRS,478
 AR,SAZB,Comandante Espora Airport,medium_airport,6660,108,ASPH,246
 AR,SAZM,Ástor Piazzola International Airport,medium_airport,7218,148,ASPH,71
 AR,SAZN,Presidente Peron Airport,medium_airport,8432,148,ASPH,895
@@ -62,15 +62,15 @@ AR,SAZW,Cutral-Co Airport,medium_airport,5558,98,ASPH,2133
 AR,SAZY,Aviador C. Campos Airport,medium_airport,8205,148,ASPH,2568
 BO,SLCB,Jorge Wilsterman International Airport,medium_airport,8692,148,ASPH,8337
 BO,SLCO,Capitán Aníbal Arab Airport,medium_airport,6562,98,ASPH,892
-BO,SLCP,Concepción Airport,small_airport,5653,98,GRASS,1635
+BO,SLCP,Concepción Airport,small_airport,5653,98,GRS,1635
 BO,SLET,El Trompillo Airport,medium_airport,9098,131,ASPH,1372
 BO,SLLP,El Alto International Airport,medium_airport,13123,151,CON,13110
 BO,SLPS,Capitán Av. Salvador Ogaya G. airport,medium_airport,6562,118,ASPH,439
-BO,SLRB,Roboré Airport,small_airport,3940,98,GRASS,884
-BO,SLSR,Santa Rosa De Yacuma Airport,small_airport,4925,98,GRASS,538
+BO,SLRB,Roboré Airport,small_airport,3940,98,GRS,884
+BO,SLSR,Santa Rosa De Yacuma Airport,small_airport,4925,98,GRS,538
 BO,SLSU,Juana Azurduy De Padilla Airport,medium_airport,9300,98,CON,9527
 BO,SLSV,San Ignacio de Velasco Airport,medium_airport,9055,148,ASPH,1482
-BO,SLTI,San Matías Airport,small_airport,6234,98,GRASS,400
+BO,SLTI,San Matías Airport,small_airport,6234,98,GRS,400
 BO,SLTJ,Capitan Oriel Lea Plaza Airport,medium_airport,10007,148,ASPH,6083
 BO,SLTR,Teniente Av. Jorge Henrich Arauz Airport,medium_airport,7874,98,ASPH,509
 BO,SLUY,Uyuni Joya Andina Airport,small_airport,13123,148,CON,12020
