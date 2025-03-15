@@ -8,8 +8,24 @@ CREATE VIEW Aereopuerto_mayor_elevacion AS
 SELECT a.name AS 'Nombre_Aereopuerto' , a.elevation_ft AS 'Altura_aereopuerto', c.name AS 'Nombre_pais' FROM airports a
 JOIN countries c ON a.iso_country = c.code WHERE a.elevation_ft = ( SELECT MAx(elevation_ft) FROM airports);
 --3.	Lista los 5 aeropuertos con las pistas más largas.
+DROP VIEW Aeropuertos_mas_largos 
+CREATE VIEW Aeropuertos_mas_largos AS 
+SELECT a.name AS 'Nombre_Aeropuerto', r.length_ft AS 'Longitud_Pista'
+FROM airports a
+JOIN runways r ON a.ident = r.airport_ident
+ORDER BY r.length_ft DESC
+LIMIT 5;
 
 --4.	¿Cuántos aeropuertos tienen servicio programado en América del Norte?
+SELECT COUNT(*) AS 'Cantidad_Aeropuertos'
+FROM airports
+WHERE iso_country IN (SELECT code FROM countries WHERE continent = 'NA')
+AND scheduled_service = 'yes';
+
+SELECT continent, COUNT(*) AS 'Cantidad_Aeropuertos'
+FROM airports
+GROUP BY continent
+ORDER BY 'Cantidad_Aeropuertos' DESC;
 
 --5.	Encuentra los 3 países con más radioayudas registradas.
 CREATE VIEW Paises_con_mas_radioayudas AS
