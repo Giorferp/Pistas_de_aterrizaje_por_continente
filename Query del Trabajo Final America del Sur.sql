@@ -20,3 +20,7 @@ SELECT * FROM SA_Airports;
 SELECT type, count(*) FROM SA_Airports GROUP BY type; 
 SELECT code, count(*) AS 'Cantidad de aeropuertos' FROM SA_Airports GROUP BY code;
 SELECT code, name FROM countries WHERE code IN ('CL','FK','GF','SR');
+
+UPDATE SA_Airports
+SET length_ft = 4269
+WHERE length_ft = 69;
