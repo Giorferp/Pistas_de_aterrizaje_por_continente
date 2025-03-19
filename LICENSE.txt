@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2025, Giovanni Fermin, Geremi Cardenas, Alejandro Zerpa, David Bermudez y Diego Quiroz.
+
+Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (la "pistas_de_aterrizaje"), para utilizar la pistas_de_aterrizaje sin restricciones, incluyendo, sin limitación, los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias de pistas_de_aterrizaje, y a permitir a las personas a las que se les proporcione el pistas_de_aterrizaje que lo hagan, sujeto a las siguientes condiciones:
+
+1. El aviso de copyright anterior y este aviso de permiso deben incluirse en todas las copias o partes sustanciales de pistas_de_aterrizaje.
+
+2. PISTAS_DE_ATERRIZAJE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITÁNDOSE A GARANTÍAS DE COMERCIABILIDAD, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O LOS TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRA TEORÍA, QUE SURJA DE O EN CONEXIÓN CON PISTAS_DE_ATERRIZAJE O EL USO O OTRO TIPO DE INTERACCIÓN CON PISTAS_DE_ATERRIZAJE.
